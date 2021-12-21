@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #a2e2e2;
+    min-height: 65px;
+    padding: 10px;
+
+    .account-show-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+    }
+}
